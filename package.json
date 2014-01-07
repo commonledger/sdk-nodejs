@@ -4,7 +4,7 @@
   "description": "Official CommonLedger API library client for node.js",
   "author": "Patrick Hindmarsh <patrick@hindmar.sh> (http://github.com/phindmarsh)",
   "homepage": "https://commonledger.com",
-  "keywords": [""],
+  "keywords": ["commonledger"],
   "repository": {
     "type": "git",
     "url": "https://github.org/commonledger/sdk-node"
