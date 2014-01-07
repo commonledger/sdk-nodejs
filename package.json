@@ -1,5 +1,5 @@
 {
-  "name": "common-ledger-sdk",
+  "name": "commonledger-sdk",
   "version": "0.0.1",
   "description": "Official CommonLedger API library client for node.js",
   "author": "Patrick Hindmarsh <patrick@hindmar.sh> (http://github.com/phindmarsh)",
