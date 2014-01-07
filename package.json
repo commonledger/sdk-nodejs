@@ -1,0 +1,23 @@
+{
+  "name": "common-ledger-sdk",
+  "version": "0.0.1",
+  "description": "Official CommonLedger API library client for node.js",
+  "author": "Patrick Hindmarsh <patrick@hindmar.sh> (http://github.com/phindmarsh)",
+  "homepage": "https://commonledger.com",
+  "keywords": [""],
+  "repository": {
+    "type": "git",
+    "url": "https://github.org/commonledger/sdk-node"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "request": "2.x.x"
+  },
+  "bugs": {
+    "url": "https://github.org/commonledger/sdk-node/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
